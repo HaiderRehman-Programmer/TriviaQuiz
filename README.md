@@ -1,2 +1,2 @@
 # TriviaQuiz
-Game Class For Project
+Game Class (TriviaQuiz.h) For Project
